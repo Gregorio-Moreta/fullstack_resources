@@ -123,8 +123,10 @@ For windows
 - https://stackoverflow.com/questions/34918025/how-to-restart-postgresql
 
 ## Typescript
+- https://www.typescripttutorial.net/
 - https://www.typescriptlang.org/
 - https://www.youtube.com/watch?v=jBmrduvKl5w&list=PLZlA0Gpn_vH_z2fqIg50_POJrUkJgBu7g
+- https://vitejs.dev/guide/features.html
 
 ## Tailwind
 - https://tailwindui.com/components/application-ui/navigation/navbars
