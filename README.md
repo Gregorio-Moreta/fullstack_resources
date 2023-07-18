@@ -204,7 +204,7 @@ For windows
 - https://jsfiddle.net/93pzhw7y/1/
 ###### The recommended book:
 - https://www.crackingthecodinginterview.com/
-######A few coding challenge resources:
+###### A few coding challenge resources:
 - https://www.hackerrank.com/dashboard
 - https://www.codewars.com/
 - https://edabit.com/challenges
